@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FacebookShare</string>
+    <string name="facebook_app_id">500588386792107</string>
+    <string-array name="menus">
+        <item>Facebook Login</item>
+        <item>Facebook Share</item>
+        <item>Facebook Messenger</item>
+    </string-array>
+</resources>
